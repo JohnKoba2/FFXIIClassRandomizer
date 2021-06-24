@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFXIIJobRandomizer", "FFXIIJobRandomizer\FFXIIJobRandomizer.csproj", "{033FFCAA-A1BD-45B8-8C36-C8A45E3DFDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033FFCAA-A1BD-45B8-8C36-C8A45E3DFDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033FFCAA-A1BD-45B8-8C36-C8A45E3DFDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033FFCAA-A1BD-45B8-8C36-C8A45E3DFDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033FFCAA-A1BD-45B8-8C36-C8A45E3DFDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5F3317-2876-4B44-B7D5-A8D37FAAC829}
+	EndGlobalSection
+EndGlobal

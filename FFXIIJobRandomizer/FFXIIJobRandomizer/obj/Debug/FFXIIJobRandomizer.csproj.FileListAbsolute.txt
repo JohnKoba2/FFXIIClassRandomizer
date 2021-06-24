@@ -1,0 +1,11 @@
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\bin\Debug\FFXIIJobRandomizer.exe.config
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\bin\Debug\FFXIIJobRandomizer.exe
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\bin\Debug\FFXIIJobRandomizer.pdb
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.csprojAssemblyReference.cache
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.Form1.resources
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.Properties.Resources.resources
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.csproj.GenerateResource.cache
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.exe
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.pdb
+C:\Users\rhyus\source\repos\FFXIIJobRandomizer\FFXIIJobRandomizer\obj\Debug\FFXIIJobRandomizer.Form2.resources
